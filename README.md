@@ -1,4 +1,4 @@
-# YourStories
+# StoryVerse
 Created an app where you can write your public and private stories.
 I used NodeJs, express, handlebars, googleOauth, MongoDB and passport for creating this.
 
